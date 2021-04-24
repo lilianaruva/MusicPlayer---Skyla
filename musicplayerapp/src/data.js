@@ -1,0 +1,117 @@
+import { v4 as uuidv4 } from "uuid";
+
+function chillHop() {
+    return [
+        {
+            name: "Eastway",
+            cover: "https://chillhop.com/wp-content/uploads/2020/07/c572841e8431cebc120dffed4f92119f723dd954-1024x1024.jpg",
+            artist: "Dontcry, Nokia", //serve.php/
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=2930",
+            color: ["#E85798", "#9A3FA0"],
+            id: uuidv4(),
+            active: true,
+        },
+        {
+            name: "Sleepover",
+            cover: "https://chillhop.com/wp-content/uploads/2020/12/7e98d3028a22ee7f16f6a9bfcdc2089f089777a5-1024x1024.jpg",
+            artist: "Nymano, JK the Sage",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=10129",
+            color: ["#3B5BA0", "#1C1447"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Blue Moon",
+            cover: "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+            artist: "C Y G N",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=14990",
+            color: ["#A55BB9", "#3F3E69"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Flashback",
+            cover: "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-1024x1024.jpg",
+            artist: "Blue Wednesday, Shopan",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=11224",
+            color: ["#F4B3DB", "#38304F"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "On The Moon",
+            cover: "https://chillhop.com/wp-content/uploads/2021/03/74d62bc9370a68e440c1b98eaf650344f0a7faea-1024x1024.jpg",
+            artist: "SwuM",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=15223",
+            color: ["#944C2D", "#303934"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Bloom",
+            cover: "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-1024x1024.jpg",
+            artist: "Blue Wednesday, Shopan",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=10129",
+            color: ["#F4B3DB", "#38304F"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Roses n Flames",
+            cover: "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+            artist: "C Y G N",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=14984",
+            color: ["#A55BB9", "#3F3E69"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Blue Moon",
+            cover: "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+            artist: "C Y G N",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=14990",
+            color: ["#A55BB9", "#3F3E69"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Flashback",
+            cover: "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-1024x1024.jpg",
+            artist: "Blue Wednesday, Shopan",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=11224",
+            color: ["#F4B3DB", "#38304F"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "On The Moon",
+            cover: "https://chillhop.com/wp-content/uploads/2021/03/74d62bc9370a68e440c1b98eaf650344f0a7faea-1024x1024.jpg",
+            artist: "SwuM",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=15223",
+            color: ["#944C2D", "#303934"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Bloom",
+            cover: "https://chillhop.com/wp-content/uploads/2020/12/33a2a875828118a3ff260638a88362936104879a-1024x1024.jpg",
+            artist: "Blue Wednesday, Shopan",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=10129",
+            color: ["#F4B3DB", "#38304F"],
+            id: uuidv4(),
+            active: false,
+        },
+        {
+            name: "Roses n Flames",
+            cover: "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+            artist: "C Y G N",
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=14984",
+            color: ["#A55BB9", "#3F3E69"],
+            id: uuidv4(),
+            active: false,
+        },
+        
+    ];
+}
+
+export default chillHop;
