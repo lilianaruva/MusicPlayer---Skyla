@@ -164,11 +164,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Liliana Gallegos Ruvalcaba - [email](lily.gallegos@hotmail.com) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/lilianaruva/MusicPlayer---Skyla](https://github.com/lilianaruva/MusicPlayer---Skyla)
 
-
+Linkedin - [Linkedin](https://www.linkedin.com/in/liliana-gallegos-ruvalcaba-6a127720b/) - Linkedin
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -197,4 +197,4 @@ https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [license-shield]: https://img.shields.io/github/license/lilianaruva/MusicPlayer---Skyla.svg?style=for-the-badge
 [license-url]: https://github.com/lilianaruva/MusicPlayer---Skyla/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/lilianaruva
+[linkedin-url]: https://www.linkedin.com/in/liliana-gallegos-ruvalcaba-6a127720b/
